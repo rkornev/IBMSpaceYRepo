@@ -1,2 +1,2 @@
 # Hello world 
-from IBM Watson Studio
+Attached are notebooks for Course 10 of IBM Data Science Professional Certificate
