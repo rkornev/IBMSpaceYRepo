@@ -1,2 +1,2 @@
 # Hello world 
-### from IBM Watson Studio
+from IBM Watson Studio
