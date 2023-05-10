@@ -1,2 +1,2 @@
 # Hello world 
-Attached are notebooks for Course 10 of IBM Data Science Professional Certificate
+Attached are notebooks for Course 10 (Capstone Project) of IBM Data Science Professional Certificate
